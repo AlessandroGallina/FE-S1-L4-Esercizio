@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+
+.card {
+   background-color: rgb(2, 122, 169);
+   width: 400px;
+   margin-top: 2rem;
+   margin-inline: auto;
+}
+
+.second-card {
+    width: 400px;
+    margin-top: 2rem;
+    margin-inline: auto;
+}
