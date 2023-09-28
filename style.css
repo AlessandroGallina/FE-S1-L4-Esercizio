@@ -1,14 +1,51 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
 
+body {
+    background-image: url(./assets/img/sfondo.png);
+}
+
 .card {
    background-color: rgb(2, 122, 169);
    width: 400px;
    margin-top: 2rem;
    margin-inline: auto;
+   padding: 40px;
+   border-radius: 5px;
 }
+.card span {
+    color: white;
+}
+
+
 
 .second-card {
     width: 400px;
     margin-top: 2rem;
     margin-inline: auto;
+    background-color: white;
+}
+
+.second-div {
+    margin-top: 2rem;
+    padding: 10px;
+    text-align: center
+
+    
+}
+
+.second-div p {
+    color: white;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-top: 2px;
+}
+
+.second-card span {
+    color: grey;
+}
+
+.div-main {
+    margin-left: 5px;
 }
